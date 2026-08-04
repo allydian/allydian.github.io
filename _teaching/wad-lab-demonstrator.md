@@ -8,4 +8,4 @@ date: 2023-12-01
 location: "Kota Samarahan, Sarawak"
 ---
 
-In semesters beginning from December 2023, I have been teaching labs to undergraduate Multimedia Computing students. These labs covered the beginner's know-how to game development and Unity 2D. By the end of it, they'll have learnt how to produce a vertical slice, which they'll have to present for assessment at the end of every semester. Sometimes, they'd carry this skills with them to game jams.
+These labs covered HTML5, javaeScript and PHP. The week's lecture gets revisited during these sessions so that students get to see the work in action. The cumulative learning outcomes for each session eventually produced a singular functional website by the end of the all the labs.
