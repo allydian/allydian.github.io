@@ -1,6 +1,6 @@
 ---
 title: "MAYA"
-excerpt: "Concept art for a VR museum.<br/><img src='images/portfolio/maya.jpg'>"
+excerpt: "Concept art for a VR museum.<br/><img src='https://github.com/allydian/allydian.github.io/blob/e733d261b191fd34211b8a57d281718a7d9175b6/images/portfolio/maya.jpg' height=50% width=auto>"
 collection: portfolio
 ---
 
