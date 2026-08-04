@@ -1,6 +1,6 @@
 ---
 title: "Herbal Heritage"
-excerpt: "A multimodal XR-enabled mobile application for digitally documenting and learning Kenyah and Kayan traditional medicinal knowledge.<br/><img src='https://play-lh.googleusercontent.com/Va60nHV_QfXOvFltfgd7l76FapwS9SEkfIUuyJyYjZvcfo7U2llHjyRjRUCjxQ6CDQ2HitbsKL-iKpXfrutEIg' height=50% width=auto>"
+excerpt: "A multimodal XR-enabled mobile application for digitally documenting and learning Kenyah and Kayan traditional medicinal knowledge.<br/>"
 collection: portfolio
 ---
 
