@@ -1,6 +1,6 @@
 ---
 title: "Ethnomedicine VR Demo"
-excerpt: "A VR vertical slice serving as a demo to introduce XR technologies to indigenous knowledge holders.<br/><img src='./images/portfolio/vr-demo-slice.jpg'>"
+excerpt: "A VR vertical slice serving as a demo to introduce XR technologies to indigenous knowledge holders.<br/><img src='images/portfolio/vr-demo-slice.jpg' height=width=50%>"
 collection: portfolio
 ---
 

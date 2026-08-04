@@ -1,6 +1,6 @@
 ---
 title: "MAYA"
-excerpt: "Concept art for a VR museum.<br/><img src='./images/portfolio/maya.jpg'>"
+excerpt: "Concept art for a VR museum.<br/><img src='images/portfolio/maya.jpg'>"
 collection: portfolio
 ---
 
