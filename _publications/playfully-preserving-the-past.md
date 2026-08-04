@@ -1,0 +1,11 @@
+---
+title: "Playfully Preserving the Past: A Systematic Literature Review on Using Gamified Extended Reality to Preserve Cultural Heritage"
+collection: publications
+category: conferences
+permalink: /publication/playfully-preserving-the-past
+excerpt: <details><summary>Abstract</summary>'Ongoing efforts are being made to explore how the fusion of extended reality technology and existing human knowledge can be utilised to pass down cultural heritage to the next generation. This paper aims to provide a comprehensive and systematic analysis of existing literature to examine the implementation of gamification and extended reality concerning cultural heritage. A systematic search was conducted on SCOPUS and Web of Science, based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. The search yielded 181 results, which were later filtered down to 22 eligible articles based on the predefined criteria. The popular types of extended reality technology used by which type of cultural property, similarity in aims, gamified activities and gamification elements that frequently co-occur, and the similarity in findings in these articles are then examined. This systematic review hopes to contribute to the ongoing exploration of gamification and extended reality and their impacts on cultural heritage.'</details>
+date: 2025-10-10
+venue: '5th EAI International Conference on Technology, Innovation, Entrepreneurship and Education'
+paperurl: 'https://doi.org/10.1007/978-3-032-06982-5_3'
+citation: 'Hendrick, A.D. <i>et al.</i> (2026). Playfully Preserving the Past: A Systematic Literature Review on Using Gamified Extended Reality to Preserve Cultural Heritage. In: Foss, J., Crawford, D., Rahman, W.u. (eds) Technology, Innovation, Entrepreneurship and Education. TIE 2025. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 655. Springer, Cham. https://doi.org/10.1007/978-3-032-06982-5_3.'
+---

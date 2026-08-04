@@ -1,0 +1,11 @@
+---
+title: "Research Trends of Extended Reality (XR) in the Medical Field: A Systematic Literature Review"
+collection: publications
+category: conferences
+permalink: /publication/research-trends-of-extended-reality-in-the-medical-field
+excerpt: <details><summary>Abstract</summary>'In recent years, Extended Reality (XR) technology has experienced significant growth and is now being applied in various fields, including medicine. Therefore, this paper seeks to provide a comprehensive and systematic analysis of current research trends related to implementing XR technology within medical fields. A systematic search was conducted on three databases; Scopus, Web of Science and ProQuest, to identify relevant articles that were published between 2018 and 2023. The search was carried out in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines, which involved evaluating articles based on pre-defined inclusion criteria, extracting pertinent information, and conducting a meta-analysis. The search yielded 1,843,669 results, which were later filtered down to 12 eligible articles based on the predefined criteria. To illustrate the research focus trends, the articles were grouped into three themes: types of XR technology and the development platforms used, benefits of XR in the medical field, the challenges or limitations faced when using XR technology in the medical field. The findings of this study offer valuable insights into the growing adoption of XR technology in the medical field. Additionally, trends and gaps in the literature were identified and addressed, providing researchers with potential directions for future research in the application of XR in the medical field.'</details>
+date: 2025-10-10
+venue: '2025 EAI International Conference on Technology, Innovation, Entrepreneurship and Education'
+paperurl: 'https://doi.org/10.1007/978-3-032-06982-5_1'
+citation: 'Ridzuan, N.F. <i>et al.</i> (2026). Research Trends of Extended Reality (XR) in the Medical Field: A Systematic Literature Review. In: Foss, J., Crawford, D., Rahman, W.u. (eds) Technology, Innovation, Entrepreneurship and Education. TIE 2025. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 655. Springer, Cham. https://doi.org/10.1007/978-3-032-06982-5_1'
+---
