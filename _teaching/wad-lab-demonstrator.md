@@ -4,7 +4,7 @@ collection: teaching
 type: "Web Application Development"
 permalink: /teaching/wad-lab-demonstrator
 venue: "Faculty of Computer Science and Information Technology, Universiti Malaysia Sarawak"
-date: 2023-12-01
+date: 2024-10-28
 location: "Kota Samarahan, Sarawak"
 ---
 

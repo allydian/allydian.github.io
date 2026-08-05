@@ -4,7 +4,7 @@ collection: teaching
 type: "Computer Game Design and Development"
 permalink: /teaching/cgdd-lab-demonstrator
 venue: "Faculty of Computer Science and Information Technology, Universiti Malaysia Sarawak"
-date: 2023-12-01
+date: 2022-12-12
 location: "Kota Samarahan, Sarawak"
 ---
 
