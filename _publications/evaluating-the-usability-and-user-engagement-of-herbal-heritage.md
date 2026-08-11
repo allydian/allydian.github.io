@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>Indigenous knowledge of traditional
 date: 2026-07-10
 venue: 'Computer Animation and Virtual Worlds'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.70167'
+bibtexturl: 'https://allydian.github.io/files/EvaluatingtheUsabilityofHerbalHeritage.bib'
 citation: 'A. D. Hendrick, S. K. Jali, N. F. Ridzuan, J. Labadin, A. L. Hendrick, and M. H. S. Samsawi, “ Evaluating the Usability and User Engagement of Herbal Heritage as a Medium for Gamified Learning of Kenyah and Kayan Traditional Medicinal Knowledge Using Extended Reality,” <i>Computer Animation and Virtual Worlds</i> 37, no. 4 (2026): e70167, https://doi.org/10.1002/cav.70167.'
 ---

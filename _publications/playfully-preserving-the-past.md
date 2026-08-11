@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>Ongoing efforts are being made to e
 date: 2025-10-10
 venue: '5th EAI International Conference on Technology, Innovation, Entrepreneurship and Education'
 paperurl: 'https://doi.org/10.1007/978-3-032-06982-5_3'
+bibtexturl: 'allydian.github.io/files/PlayfullyPreservingthePast.bib'
 citation: 'Hendrick, A.D. <i>et al.</i> (2026). Playfully Preserving the Past: A Systematic Literature Review on Using Gamified Extended Reality to Preserve Cultural Heritage. In: Foss, J., Crawford, D., Rahman, W.u. (eds) Technology, Innovation, Entrepreneurship and Education. TIE 2025. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 655. Springer, Cham. https://doi.org/10.1007/978-3-032-06982-5_3.'
 ---

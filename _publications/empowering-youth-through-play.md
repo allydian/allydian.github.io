@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>Sexual grooming is engaging with a 
 date: 2024-01-01
 venue: 'Journal of Advanced Research in Applied Sciences and Engineering Technology'
 paperurl: 'https://www.researchgate.net/profile/Amelia-Jupit/publication/384148959_Empowering_Youth_through_Play_Promoting_Awareness_of_Sexual_Grooming_among_Schoolchildren_through_Game-based_Learning/links/66fbfebd553d245f9e46ee8d/Empowering-Youth-through-Play-Promoting-Awareness-of-Sexual-Grooming-among-Schoolchildren-through-Game-based-Learning.pdf'
+bibtexturl: 'https://github.com/allydian/allydian.github.io/files/EmpoweringYouthThroughPlay.bib'
 citation: 'Hendrick, A. D., Jupit, A. J. R., & Nordin, A. I. (2024). Empowering youth through play: Promoting awareness of sexual grooming among schoolchildren through game-based learning. <i>Journal of Advanced Research in Applied Sciences and Engineering Technology</i>, 51(2), 34-44.'
 ---

@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>In recent years, Extended Reality (
 date: 2025-10-10
 venue: '2025 EAI International Conference on Technology, Innovation, Entrepreneurship and Education'
 paperurl: 'https://doi.org/10.1007/978-3-032-06982-5_1'
+bibtexturl: 'https://allydian.github.io/files/ResearchTrendsofXR.bib'
 citation: 'Ridzuan, N.F. <i>et al.</i> (2026). Research Trends of Extended Reality (XR) in the Medical Field: A Systematic Literature Review. In: Foss, J., Crawford, D., Rahman, W.u. (eds) Technology, Innovation, Entrepreneurship and Education. TIE 2025. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 655. Springer, Cham. https://doi.org/10.1007/978-3-032-06982-5_1'
 ---

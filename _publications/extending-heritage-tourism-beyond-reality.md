@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>This paper is a systematic literatu
 date: 2025-06-13
 venue: '2025 7th Asia Symposium on Image Processing (ASIP)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11216642/'
+bibtexturl: 'https://github.com/allydian/allydian.github.io/files/ExtendingHeritageTourism.bib'
 citation: 'Hendrick, A. L., Jali, S. K., Bandan, M. I., Lim, P. C., Wang, Y. C., Hendrick, A. D., ... & Akbar, R. I. (2025, June). Extending Heritage Tourism Beyond Reality with Extended Reality Technologies: A Systematic Literature Review. In <i>2025 7th Asia Symposium on Image Processing (ASIP)</i> (pp. 129-134). IEEE.'
 ---

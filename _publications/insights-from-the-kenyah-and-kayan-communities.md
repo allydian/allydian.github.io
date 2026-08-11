@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>Extended reality (XR) technology ha
 date: 2026-07-12
 venue: 'Preprint'
 paperurl: 'http://dx.doi.org/10.12785/ijcds'
+bibtexturl: 'https://allydian.github.io/files/InsightsFromtheKenyahandKayanCommunities.bib'
 citation: 'Ridzuan, N. F., Jali, S. K., Labadin, J., Hendrick, A. D., Junaini, S. N., Bandan, M. I., & Othman, M. K. (2026). Insights from the Kenyah and Kayan Communities in Malaysia on using Extended Reality Solutions for their Indigenous Medicinal Knowledge Preservation.'
 ---

@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>Many sectors are quickly moving tow
 date: 2026-1-1
 venue: 'International Journal of Advanced Computer Science and Applications'
 paperurl: 'https://search.proquest.com/openview/c7d90e78b9c53ce75a7957ff55af6fca/1?pq-origsite=gscholar&cbl=5444811'
+bibtexturl: 'https://allydian.github.io/files/TheUntappedPotentialofXR.bib'
 citation: 'Peter, G. A., Jali, S. K., Labadin, J., Hendrick, A. L., Hendrick, A. D., & Ridzuan, N. F. (2026). The Untapped Potential of Extended Reality for Indigenous Medicinal Knowledge: A Review of Cross-Disciplinary XR Applications. <i>International Journal of Advanced Computer Science and Applications</i>, 17(4).'
 ---

@@ -7,5 +7,6 @@ excerpt: <details><summary>Abstract</summary>Ongoing efforts are being made to e
 date: 2025-06-13
 venue: '5th EAI International Conference on Technology, Innovation, Entrepreneurship and Education'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11216629/'
+bibtexturl: 'https://github.com/allydian/allydian.github.io/files/GamifiedXRPotentialforKenyahandKayan.bib'
 citation: 'Hendrick, A. D., Jali, S. K., Ridzuan, N. F., Labadin, J., Hendrick, A. L., & Liau, J. (2025, June). Gamified eXtended Reality Potential for Kenyah and Kayan Traditional Medicine Knowledge Transfer and Preservation. In <i>2025 7th Asia Symposium on Image Processing (ASIP)</i> (pp. 153-158). IEEE.'
 ---
