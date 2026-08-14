@@ -1,5 +1,5 @@
 ---
-title: "Lab Demonstrator"
+title: "Java Lab Demonstrator"
 collection: teaching
 type: "Java Programming"
 permalink: /teaching/java-lab-demonstrator

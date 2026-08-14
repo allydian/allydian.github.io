@@ -1,5 +1,5 @@
 ---
-title: "Lab Demonstrator"
+title: "WAD Lab Demonstrator"
 collection: teaching
 type: "Web Application Development"
 permalink: /teaching/wad-lab-demonstrator
@@ -8,4 +8,4 @@ date: 2024-10-28
 location: "Kota Samarahan, Sarawak"
 ---
 
-These labs covered HTML5, javaeScript and PHP. The week's lecture gets revisited during these sessions so that students get to see the work in action. The cumulative learning outcomes for each session eventually produced a singular functional website by the end of the all the labs.
+These labs covered HTML5, JavaScript and PHP. The week's lecture gets revisited during these sessions so that students get to see the work in action. The cumulative learning outcomes for each session eventually produced a singular functional website by the end of the all the labs.

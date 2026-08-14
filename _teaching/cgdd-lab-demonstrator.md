@@ -1,5 +1,5 @@
 ---
-title: "Lab Demonstrator"
+title: "CGDD Lab Demonstrator"
 collection: teaching
 type: "Computer Game Design and Development"
 permalink: /teaching/cgdd-lab-demonstrator
