@@ -4,7 +4,7 @@ collection: teaching
 type: "Java Programming"
 permalink: /teaching/java-lab-demonstrator
 venue: "Faculty of Computer Science and Information Technology, Universiti Malaysia Sarawak"
-date: 2026-03-30
+date: 2024-04-05
 location: "Kota Samarahan, Sarawak"
 ---
 
