@@ -4,4 +4,4 @@ excerpt: "A vertical slice demonstrating the deliverables expected from the lab 
 collection: portfolio
 ---
 
-Unavailable for external viewing as the learning materials are copyrighted by UNIMAS.
+Unavailable for external viewing. Learning materials are copyrighted by UNIMAS.
